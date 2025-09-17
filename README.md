@@ -20,7 +20,7 @@ The backend is built with **Python (FastAPI)**, and the frontend is a modern, re
 
 ### Backend
 - **Language:** Python 3.9+
-- **Framework:** FastAPI
+- **Framework:** LangChain, LangGraph, FastAPI
 - **API:** OpenAI API
 - **Server:** Uvicorn
 - **Local URL:** [http://127.0.0.1:8000](http://127.0.0.1:8000)
