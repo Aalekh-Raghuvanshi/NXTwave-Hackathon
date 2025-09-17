@@ -4,7 +4,7 @@ import { File, Send, Bot, User, X } from "lucide-react";
 import ReactMarkdown from "react-markdown";
 
 const Hero = () => {
-  const API_URL = "http://127.0.0.1:8000"
+  const API_URL = "https://nxtwave-hackathon-jc5c.onrender.com"
   const [text, setText] = useState("");
   const textarea = useRef(null);
   const chatHistoryRef = useRef(null);
