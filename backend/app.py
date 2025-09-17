@@ -13,8 +13,8 @@ from models.router import process_query
 sys.path.append(os.path.dirname(os.path.dirname(__file__)))
 
 origins = [
-    # "http://localhost:5173",
-    "https://nxtwave-hackathon.netlify.app"
+    "http://localhost:5173"
+    # "https://nxtwave-hackathon.netlify.app"
 ]
 
 app = FastAPI()
