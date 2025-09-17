@@ -35,25 +35,25 @@ The backend is built with **Python (FastAPI)**, and the frontend is a modern, re
 
 ## 🚀 Getting Started
 
-### 1. Clone repository or download zip.
+1. Clone repository or download zip.
 
-### 2. Generate API key from OpenAI dashboard
+2. Generate API key from OpenAI dashboard
 
-### 3. In folder ```backend``` create a ```.env``` file and add the ```OPENAI_API_KEY```
+3. In folder ```backend``` create a ```.env``` file and add the ```OPENAI_API_KEY```
 
-### 4. Open terminal and write the following commands:
-```bash 
-cd backend
-pip install -r requirements.txt
-uvicorn app:app --reload
-```
-```bash
-cd frontend 
-npm install
-npm run dev
-```
+4. Open terminal and write the following commands:
+    ```bash 
+    cd backend
+    pip install -r requirements.txt
+    uvicorn app:app --reload
+    ```
+    ```bash
+    cd frontend 
+    npm install
+    npm run dev
+    ```
 
-### 5. Run [https://localhost:5173/](http://127.0.0.1:8000) and you are good to go.
+5. Run [https://localhost:5173/](http://127.0.0.1:8000) and you are good to go.
 
 
 ## 🔜 Upcoming features
