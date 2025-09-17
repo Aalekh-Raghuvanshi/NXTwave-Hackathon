@@ -4,7 +4,7 @@ from datetime import datetime
 import uuid
 from typing import Dict, Any, Literal, Optional
 from datetime import datetime
-from dotenv import load_dotenv, find_dotenv
+from dotenv import load_dotenv
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 from langchain_openai import ChatOpenAI

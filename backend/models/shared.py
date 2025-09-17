@@ -1,6 +1,6 @@
 import os
 import uuid
-from dotenv import load_dotenv, find_dotenv
+from dotenv import load_dotenv
 from langchain_openai import ChatOpenAI
 from pydantic import BaseModel
 
