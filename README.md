@@ -3,7 +3,7 @@
 An intelligent **Legal Chat Assistant** powered by OpenAI.  
 This application provides users with a conversational interface to get assistance with their legal queries.
 
-The backend is built with **Python (FastAPI)**, and the frontend is a modern, responsive UI built with **React (Vite)** and styled with vanilla **CSS**.
+The backend is built with **Python (FastAPI, LangChain, LangGraph)**, and the frontend is a modern, responsive UI built with **React (Vite)** and styled with vanilla **CSS**.
 
 ---
 
@@ -13,6 +13,7 @@ The backend is built with **Python (FastAPI)**, and the frontend is a modern, re
 - **Fast & Scalable Backend:** Powered by FastAPI and Uvicorn.
 - **Modern UI:** Clean and intuitive React interface.
 - **Quick Setup:** Run locally in just a few steps.
+- **RAG Agent:** Retrieval-Augmented Generation (RAG) Agent for more accurate answers to queries
 
 ---
 
@@ -58,7 +59,7 @@ The backend is built with **Python (FastAPI)**, and the frontend is a modern, re
 
 ## 🔜 Upcoming features
 
-1. File reading ability for case explanation
+1. File reading ability for case explanation (OCR capabilities).
 
 2. New Chat button and Recent Chats feature
 
