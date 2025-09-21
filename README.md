@@ -58,6 +58,7 @@ It has 2 specialized agents (**Legal Query Agent** and **Constitutional Agent**)
 
 5. Run [https://localhost:5173/](http://127.0.0.1:8000) and you are good to go.
 
+---
 
 ## 🔜 Upcoming features
 
