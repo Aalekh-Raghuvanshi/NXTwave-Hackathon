@@ -5,6 +5,8 @@ This application provides users with a conversational interface to get assistanc
 
 The backend is built with **Python (FastAPI, LangChain, LangGraph)**, and the frontend is a modern, responsive UI built with **React (Vite)** and styled with vanilla **CSS**.
 
+It has 2 specialized agents (**Legal Query Agent** and **Constitutional Agent**) along with **RAG system** to ensure accurate responses.
+
 ---
 
 ## ✨ Features
